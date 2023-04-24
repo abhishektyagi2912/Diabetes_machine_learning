@@ -17,7 +17,7 @@ To use the UI, you also need the following:
 
 1. Clone the repository
 ```
-git clone https://github.com/<username>/<repository-name>.git
+git clone https://github.com/abhishektyagi2912/Diabetes_machine_learning.git
 
 ```
 
@@ -42,10 +42,3 @@ This project was created by Abhishek Tyagi. The dataset used in this project was
 
 ## License
 This project is licensed under the [Apache-2.0](https://github.com/abhishektyagi2912/Diabetes_machine_learning/blob/master/LICense).
-
-
-
-
-
-
-
