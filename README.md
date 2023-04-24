@@ -41,4 +41,4 @@ The dataset used in this project is not a substitute for a medical diagnosis. Th
 This project was created by Abhishek Tyagi. The dataset used in this project was obtained from Kaggle, and the UI was built using Gradio.
 
 ## License
-This project is licensed under the [Apache-2.0](https://github.com/abhishektyagi2912/Diabetes_machine_learning/blob/master/LICense).
+This project is licensed under the [Apache-2.0](https://github.com/abhishektyagi2912/Diabetes_machine_learning/blob/master/License).
